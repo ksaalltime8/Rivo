@@ -1,4 +1,4 @@
-import('./src/index.js')
+import('./index.js')
   .then(() => {
     console.log('[Rivo] Bot application started successfully.');
   })
